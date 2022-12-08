@@ -32,3 +32,6 @@ Below are local cache solutions table:
 | Image Pull | [Nexus](https://github.com/sonatype/nexus-public) | EPL-1.0 |
 | Maven Build | [Nexus](https://github.com/sonatype/nexus-public) | EPL-1.0 |
 | NPM Build | [Verdaccio](https://github.com/verdaccio/verdaccio) | MIT |
+
+## References
+* [Learning guide for Jenkins](https://github.com/LinuxSuRen/jenkins-learning-guide)
