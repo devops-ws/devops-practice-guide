@@ -35,3 +35,4 @@ Below are local cache solutions table:
 
 ## References
 * [Learning guide for Jenkins](https://github.com/LinuxSuRen/jenkins-learning-guide)
+* [Argo Workflows Guide](https://github.com/LinuxSuRen/argo-workflows-guide) (in Chinese)
