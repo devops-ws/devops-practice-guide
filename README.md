@@ -5,6 +5,7 @@ How to evaluate the tools? Please feel free to consider the following aspects:
 | Item | Importance | Description |
 |---|---|---|
 | Extensibility | | Support to enhance the features by plugin or extension mechanism |
+| Workflow or Task level reusable | | How to reuse a workflow or task to make the workflow be simple |
 | UI || Having the UI management |
 | Single sign-on (SSO) | | Allow users log in all platforms with a single account |
 
